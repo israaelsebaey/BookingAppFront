@@ -36,10 +36,7 @@ function Header(){
                             </div>
                         </div>
                     </div>
-                </div>
-                
-                
-                    
+                </div>        
             </div>
         </Fragment>
     )
